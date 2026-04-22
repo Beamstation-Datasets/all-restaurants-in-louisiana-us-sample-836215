@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3375967c-98cc-4c94-9c19-6da34bcfab49",
+  "export_job_id": "acb16b70-92b3-4b36-8cce-36dcf7d2d864",
   "id_short": 836215,
-  "published_at": "2026-04-19T07:15:27Z",
+  "published_at": "2026-04-22T19:12:46Z",
   "repo_name": "all-restaurants-in-louisiana-us-sample-836215",
   "sample_asset_name": "beamstation_836215_restaurants-us-la_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/836215/beamstation_836215_restaurants-us-la_SAMPLE_DIST.csv",
-  "sample_records": 1000,
-  "sample_sha256": "1f3d8715f75b51fe97965c9184079dc2821f7bb7364370179740b1b4ad91335c",
-  "sample_size_bytes": 2479923,
-  "total_records": 10554
+  "sample_records": 829,
+  "sample_sha256": "5c91af99412b698219c2574241153af462925f0078212f1bfb0c1b364aca28ff",
+  "sample_size_bytes": 2333876,
+  "total_records": 8290
 }
