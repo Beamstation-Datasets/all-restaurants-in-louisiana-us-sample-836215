@@ -1,6 +1,6 @@
 # All Restaurants in Louisiana, US
 
-> Free BeamStation sample export with 1,000 rows and masked direct-contact fields.
+> Free BeamStation sample export with 829 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `836215` |
 | Location | Louisiana |
 | Category | Restaurants |
-| Full dataset size | 10,554 records |
-| Free sample size | 1,000 records (9.48%) |
-| Last export | 2026-04-14T19:48:03.901758+00:00 |
+| Full dataset size | 8,290 records |
+| Free sample size | 829 records (10.0%) |
+| Last export | 2026-04-21T21:50:41.699821+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-louisiana-us-sample-836215/releases/download/sample-latest/beamstation_836215_restaurants-us-la_SAMPLE_DIST.csv) |
 
 ## What is in this sample
