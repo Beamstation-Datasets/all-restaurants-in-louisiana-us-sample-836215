@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "All restaurant listings across the state of Louisiana. Filtered by the Restaurants category group, this statewide export includes verified business profiles, review analytics, competitive benchmarks, and contact details for every active listing. Refreshed weekly.",
   "config_name": "All Restaurants in Louisiana, US",
-  "export_job_id": "8b6ac548-a8b1-4337-9eab-eebe52398fd9",
+  "export_job_id": "256b7d64-eaa7-4314-8df4-d7657a2e643b",
   "github_org": "Beamstation-Datasets",
   "id_short": 836215,
   "location_name": "Louisiana",
   "location_type": "state",
   "repo_name": "all-restaurants-in-louisiana-us-sample-836215",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/836215/beamstation_836215_restaurants-us-la_SAMPLE_DIST.csv",
-  "sample_pct": 9.48,
+  "sample_pct": 8.69,
   "sample_records": 1000,
-  "sample_sha256": "cedb054c8845520c82461b30c9682ad5828e06d4aaf927ef5bd6cb95b066b619",
-  "sample_size_bytes": 2801125,
-  "total_records": 10549,
-  "updated_at": "2026-04-29T00:44:58.708129+00:00"
+  "sample_sha256": "672e1444421f1a12fd7bd69e1328bb696a9da3528aa57dfc9e976e148aea9985",
+  "sample_size_bytes": 2803779,
+  "total_records": 11508,
+  "updated_at": "2026-05-08T06:21:49.314469+00:00"
 }
